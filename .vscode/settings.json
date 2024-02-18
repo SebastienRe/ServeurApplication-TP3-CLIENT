@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "TP_beanEntity.jar",
+            "TP_bean_entity.jar"
+        ],
+        "exclude": [
+            "c:\\bin\\glassfish6\\glassfish\\lib\\appserv-rt.jar",
+            "c:\\bin\\glassfish6\\glassfish\\lib\\gf-client.jar",
+            "c:\\bin\\glassfish6\\glassfish\\lib\\grizzly-npn-api.jar"
+        ]
+    }
+}
